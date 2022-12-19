@@ -1,0 +1,9 @@
+The packages i have used:-
+FastQC
+ Trimmomatic 0.39
+ STAR
+ MultiQC
+ featureCount
+ Samtools
+ Bam2Fastx
+ MultiQC
